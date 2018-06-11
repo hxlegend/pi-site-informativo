@@ -1,0 +1,14 @@
+1. Selecionar o Local:
+
+cd c:/projeto_integrador
+
+2. Inicilalizar um repositório
+
+git init
+
+3. Setar as minhas configurações
+
+git config --global user.name "Henry Santos"
+
+git config --global user.name "miraxcf@gmail.com"
+
